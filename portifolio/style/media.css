@@ -1,0 +1,47 @@
+@media (max-width: 480px) {
+    html{
+        height: 200%;
+    }
+
+  .sobre-mim {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: start;
+    justify-content: start;
+    gap: 40px;
+  }
+
+  .bio{
+    width: 350px;
+  }
+
+  .paragrafo-1, .paragrafo-2, .paragrafo-3{
+    font-size: 22px;
+    width: 300px;
+  }
+}
+
+@media (max-width: 800px) {
+    html{
+        height: 200%;
+    }
+
+  .sobre-mim {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: start;
+    justify-content: start;
+    gap: 40px;
+  }
+
+  .bio{
+    width: 350px;
+  }
+
+  .paragrafo-1, .paragrafo-2, .paragrafo-3{
+    font-size: 22px;
+    width: 300px;
+  }
+}
